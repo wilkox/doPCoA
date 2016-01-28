@@ -1,0 +1,13 @@
+Package: doPCoA
+Type: Package
+Title: A function to run PCoAs
+Version: 0.1
+Date: 2016-01-28
+Author: David Wilkins <contact@wilkox.org>
+Maintainer: David Wilkins <contact@wilkox.org>
+Description: A function to run PCoAs
+Depends: 
+    dplyr,
+    vegan,
+License: GPL version 3 or newer
+Suggests: testthat
